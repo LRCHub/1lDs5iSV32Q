@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "愛及屋烏",
+  "base_artist": "バルーン",
+  "createdAt": "2026-02-12T13:45:30.439427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛及屋烏",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/01_愛及屋烏_balloon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛及屋烏 - doting",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/02_愛及屋烏_-_doting_balloon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛及屋烏",
+      "artist": "バルーン",
+      "has_synced": false,
+      "path": "select/pl_01_愛及屋烏_バルーン.txt"
+    }
+  ]
+}
